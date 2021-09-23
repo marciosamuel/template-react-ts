@@ -1,0 +1,5 @@
+You can place your route files
+
+/routes
+  public.routes.ts
+  private.routes.ts

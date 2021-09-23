@@ -1,0 +1,9 @@
+Here you can place all your page templates with the similar structure of the components folder
+
+/pages
+  /Home
+    index.tsx
+    styles.css
+  /OtherComponent
+    index.tsx
+    styles.css

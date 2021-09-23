@@ -1,0 +1,10 @@
+The components folder can be used to place and organize all your reusable components
+with the following structure:
+
+/components
+  /ComponentExample1
+    index.tsx
+    styles.css
+  /ComponentExample2
+    index.tsx
+    styles.css

@@ -1,0 +1,9 @@
+Here you can place your image, fonts or another media files separated by folders
+
+/assets
+  /img
+    logo.svg
+    favicon.svg
+    example.jpg
+  /fonts
+    example.ttf
